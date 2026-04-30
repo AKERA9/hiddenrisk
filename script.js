@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const resultModal = document.getElementById('resultModal');
     
     // Replace this URL with your actual Google Apps Script Web App URL after setup
-    const GOOGLE_SCRIPT_URL = 'YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL_HERE';
+    const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycby-WB95L78AWfK9yN2WYCOTBoQcpyPcewblTwmaNyxQAs5ycBkEV-Qp6KdjjJ7mShB5/exec';
 
     form.addEventListener('submit', async (e) => {
         e.preventDefault();
